@@ -17,7 +17,7 @@ The management team at Data Bank want to increase their total customer base - bu
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
-## Problem Statement
+## Available Datasets
 The following case study questions include some general data exploration analysis for the nodes and transactions before diving right into the core business questions and finishes with a challenging final request!
 
 Following are the 3 key datasets for this case study:
