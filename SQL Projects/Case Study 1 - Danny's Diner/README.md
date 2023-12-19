@@ -27,4 +27,4 @@ https://8weeksqlchallenge.com/case-study-1/
 
 ---
 ## Solutions
-1. <a href='' > Case Study Questions and Bonus Question </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%201%20-%20Danny's%20Diner/case-study-and-bonus-questions.md" > Case Study Questions and Bonus Question </a>
