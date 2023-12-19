@@ -13,7 +13,7 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
-## Problem Statement
+## Available Datasets
 This case study has LOTS of questions - they are broken up by area of focus including:
 
 Pizza Metrics
