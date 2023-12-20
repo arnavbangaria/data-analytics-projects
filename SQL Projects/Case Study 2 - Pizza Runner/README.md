@@ -40,7 +40,7 @@ https://8weeksqlchallenge.com/case-study-2/
 
 ---
 ## Solutions
-1. <a href=""> Pizza Metrics </a>
-2. <a href=""> Runner and Customer Experience </a>
-3. <a href=""> Ingredient Optimization </a>
-4. <a href=""> Pricing </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%202%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md"> Pizza Metrics </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%202%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md"> Runner and Customer Experience </a>
+3. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%202%20-%20Pizza%20Runner/C.%20Ingredient%20Optimization.md"> Ingredient Optimization </a>
+4. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%202%20-%20Pizza%20Runner/D.%20Pricing.md"> Pricing </a>
