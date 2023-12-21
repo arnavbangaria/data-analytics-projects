@@ -25,4 +25,4 @@ https://8weeksqlchallenge.com/case-study-3/
 ---
 ## Solutions
 1. <a href=""> Customer Journey and Data Analysis Questions </a>
-2. <a href=""> Challenge Payment Questions and Outside The Box Questions </a>
+2. <a href=""> Challenge Payment Question </a>
