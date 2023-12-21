@@ -24,5 +24,5 @@ https://8weeksqlchallenge.com/case-study-3/
 
 ---
 ## Solutions
-1. <a href=""> Customer Journey and Data Analysis Questions </a>
-2. <a href=""> Challenge Payment Question </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%203%20-%20Foodie%20Fi/A.%20Data%20Analysis.md"> Customer Journey and Data Analysis Questions </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%203%20-%20Foodie%20Fi/B.%20Challenge%20Payment%20Question.md"> Challenge Payment Question </a>
