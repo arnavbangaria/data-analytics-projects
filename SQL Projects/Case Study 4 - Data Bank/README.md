@@ -31,6 +31,6 @@ https://8weeksqlchallenge.com/case-study-4/
 
 ---
 ## Solutions
-1. <a href=""> Customer Nodes Exploration </a>
-2. <a href=""> Customer Transactions </a>
-3. <a href=""> Data Allocation Challenge </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%204%20-%20Data%20Bank/A.%20Customer%20Node%20Exploration.md"> Customer Nodes Exploration </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%204%20-%20Data%20Bank/B.%20Customer%20Transactions.md"> Customer Transactions </a>
+3. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%204%20-%20Data%20Bank/C.%20Data%20Allocation%20Challenge.md"> Data Allocation Challenge </a>
