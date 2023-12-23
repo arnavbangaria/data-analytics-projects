@@ -36,6 +36,6 @@ https://8weeksqlchallenge.com/case-study-5/
 
 ---
 ## Solutions
-1. <a href=""> Data Cleansing Steps </a>
-2. <a href=""> Data Exploration </a>
-3. <a href=""> Before and After Analysis </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%205%20-%20Data%20Mart/A.%20Data%20Cleansing.md"> Data Cleansing Steps </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%205%20-%20Data%20Mart/B.%20Data%20Exploration.md"> Data Exploration </a>
+3. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%205%20-%20Data%20Mart/C.%20Before%20and%20After%20Analysis.md"> Before and After Analysis </a>
