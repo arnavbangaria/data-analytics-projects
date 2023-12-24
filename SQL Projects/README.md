@@ -6,15 +6,25 @@ I am Arnav Bangaria an aspiring data analytics and data science professional. SQ
 
 If you are ready to dedicate yourself towards this challenge, I am pretty sure you will develop great understanding of:
 
-- 1️⃣ Basic Queries (SELECT, FROM, WHERE, GROUP BY, ORDER BY, HAVING, LIMIT....etc.)
-- 2️⃣ Cleaning data and handling exceptions and NULL values
-- 3️⃣ Manipulating datasets (CRUD operations)
-- 4️⃣ Advanced application of AGGREGATE FUNCTIONS(SUM, AVG, ROUND, COUNT...etc.)
-- 5️⃣ Deeper understanding of WINDOW FUNCTIONS (LEAD, LAG, RANK, DENSE_RANK, ROW_NUMBER...etc.)
-- 6️⃣ Develop advanced queries and understand business aspect of analysis
-- 7️⃣ Enhanced JOIN and UNION handling capabilities
-- 8️⃣ Complete understanding of CTE formation and utilization
-- 9️⃣ Advanced Concept: Running Total in Window, Moving Averages, Multiple CTE, Multiple Joins, Recursive CTE
+<br>
+
+1️⃣ Basic Queries (SELECT, FROM, WHERE, GROUP BY, ORDER BY, HAVING, LIMIT....etc.)
+
+2️⃣ Cleaning data and handling exceptions and NULL values
+
+3️⃣ Manipulating datasets (CRUD operations)
+
+4️⃣ Advanced application of AGGREGATE FUNCTIONS(SUM, AVG, ROUND, COUNT...etc.)
+
+5️⃣ Deeper understanding of WINDOW FUNCTIONS (LEAD, LAG, RANK, DENSE_RANK, ROW_NUMBER...etc.)
+
+6️⃣ Develop advanced queries and understand business aspect of analysis
+
+7️⃣ Enhanced JOIN and UNION handling capabilities
+
+8️⃣ Complete understanding of CTE formation and utilization
+
+9️⃣ Advanced Concept: Running Total in Window, Moving Averages, Multiple CTE, Multiple Joins, Recursive CTE
 
 <br>
 
