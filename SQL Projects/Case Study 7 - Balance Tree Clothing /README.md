@@ -22,7 +22,7 @@ https://8weeksqlchallenge.com/case-study-7/
 
 ---
 ## Solutions
-1. <a href=""> High Level Sales Analysis </a>
-2. <a href=""> Transaction Analysis </a>
-3. <a href=""> Product Analysis </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%207%20-%20Balance%20Tree%20Clothing%20/A.%20High%20Level%20Sales%20Analysis.md"> High Level Sales Analysis </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%207%20-%20Balance%20Tree%20Clothing%20/B.%20Transaction%20Analysis.md"> Transaction Analysis </a>
+3. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%207%20-%20Balance%20Tree%20Clothing%20/C.%20Product%20Analysis.md"> Product Analysis </a>
 
