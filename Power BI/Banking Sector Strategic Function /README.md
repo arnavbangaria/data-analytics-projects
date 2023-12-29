@@ -17,4 +17,7 @@ Peter Pandey is a data analyst at AtliQ Data Services and was asked by his manag
 
 The successful acquisition of this project depends on Peter's ability to provide actionable, data-driven recommendations and impress Mr. Bashnir Rover & his team. Peter requested support from his manager Tony Sharma, and he provided him with some ideas to generate insights based on the data provided. 
 
-## Find Dataset and Challenge on : https://codebasics.io/challenge/codebasics-resume-project-challenge
+Find Dataset and Challenge on : https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+### Final Recommendation
+![image](https://github.com/arnavbangaria/data-analytics-projects/assets/98005484/22a85f76-af4e-47a4-8294-7dd5a60e71a7)
