@@ -24,7 +24,7 @@ https://8weeksqlchallenge.com/case-study-8/
 
 ---
 ## Solutions
-1. <a href=""> Data Exploration and Cleaning </a>
-2. <a href=""> Interest Analysis </a>
-3. <a href=""> Segment Analysis </a>
-4. <a href=""> Index Analysis </a>
+1. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%208%20-%20Fresh%20Segments/A.%20Exploration%20and%20Cleansing.md"> Data Exploration and Cleaning </a>
+2. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%208%20-%20Fresh%20Segments/B.%20Interest%20Analysis.md"> Interest Analysis </a>
+3. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%208%20-%20Fresh%20Segments/C.%20Segment%20Analysis.md"> Segment Analysis </a>
+4. <a href="https://github.com/arnavbangaria/data-analytics-projects/blob/agileanalyst/SQL%20Projects/Case%20Study%208%20-%20Fresh%20Segments/D.%20Index%20Analysis.md"> Index Analysis </a>
